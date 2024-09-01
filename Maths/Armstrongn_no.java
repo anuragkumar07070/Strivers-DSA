@@ -33,7 +33,7 @@ public class Armstrongn_no {
     }
 
     public static void main(String[] args) {
-        int n = 153;
+        int n = 371;
         boolean result = armstrong(n);
         System.out.println(result);
     }
